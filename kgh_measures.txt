@@ -1,0 +1,23 @@
+1) Total Employees = countrows('Employee Dashboard')
+
+2) Total Groups = DISTINCTCOUNT('Employee Dashboard'[Group])
+
+3) Total Cricital care units = count(Infrastructure[CRITICAL CARE UNITS])
+
+4)Total Operation Theatres = count(Infrastructure[ OPERATION THEATRES]).
+
+5) Total Super speciality blocks = count(Infrastructure[SUPER SPECIALITY BLOCKS])
+
+6) Total Wards = count(Infrastructure[WARDS])
+
+7) Total_Beds = SUM(Infrastructure[BED STRENGTH])
+
+8) Available Balance = sum('KGH Bills'[Available Balance(in Rupees)])
+
+9) Expenditure = sum('KGH Bills'[Expenditure/Su rrender(in Rupees)])
+
+10) Total Budget = sum('KGH Bills'[Total Budget released(in Rupees)])
+
+11) Departments Count = counta('O P Timings'[DEPARTMENT])
+
+12)Departments Timings = SELECTEDVALUE('O P Timings'[Timings])
