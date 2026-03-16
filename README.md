@@ -1,0 +1,2 @@
+# KGH-King-George-Hospital-Visakhapatnam-Data-analysis-of-Hospital-staff-and-Infrastructure
+KGH,King George Hospital Visakhapatnam Data analysis of Hospital staff and Infrastructure based on Open source file RTI on 2024. The Dashboard discusses about Total number of employees working in KGH of different segments (Regular/Outsourcing/Contract). The amount expended and lapses.Total number of People working in different departments.
